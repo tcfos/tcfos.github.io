@@ -9,11 +9,13 @@ This app is for everyone who wants fast access to a few frequently used phone nu
 Each button has a unique color and stores one phone number. You can use any name on the button – even nick names. 
 Or simply copy the name and the number from the address book.
 
-Features:
-* store up to 36 phone numbers
-* double-tap a tile to edit name and number
+Easy to use:
+* 12 large buttons per screen
+* tap a button to start a phone call
+* three screens for up to 36 phone numbers
 * adjust the font size for better legibility
 * use individual nicknames
-* voice over
-* copy phone numbers from your conatcs
+* tap and hold (or double-tap) for editing a button
 * no ads
+
+Privacy: the phone numbers and names are exclusively stored on your iPhone. This app doesn't track you.
