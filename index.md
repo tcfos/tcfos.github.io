@@ -19,3 +19,7 @@ Easy to use:
 * no ads
 
 Privacy: the phone numbers and names are exclusively stored on your iPhone. This app doesn't track you.
+
+Link to the Apple appstore: (pending)
+
+Support: send an email message to support(at)tcfos.org
