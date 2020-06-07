@@ -1,6 +1,6 @@
 # Call by Color 36 – Made for iPhone
 
-This app brings the speed dial key to the iPhones. Get direct access to your most important phone numbers. 
+This app brings the well known speed dialling keys to the iPhones. Get direct access to your most important phone numbers. 
 Call your friends and your family members with a single touch - you don't have to search the address book any more.
 Three beautiful designed screens – each with 12 large buttons – can store 36 phone numbers. 
 For better legibility the fontsize can be adjusted. 
@@ -23,3 +23,11 @@ Privacy: the phone numbers and names are exclusively stored on your iPhone. This
 Link to the Apple appstore: (pending)
 
 Support: send an email message to support(at)tcfos.org
+
+# Call by Color 24 – Made for iPhone
+For those who need only 24 speed dialling keys there is second app: **Call by Color 24 – Made for iPhone**
+
+* 12 large buttons per screen
+* two screens for up to 24 phone numbers
+
+Link to the app store: (pending)
