@@ -20,7 +20,7 @@ Easy to use:
 
 Privacy: the phone numbers and names are exclusively stored on your iPhone. This app doesn't track you.
 
-Link to the Apple appstore: (pending)
+Link to the Apple appstore: https://apps.apple.com/us/app/call-by-color-36/id1494633758?l=en&ls=1
 
 Support: send an email message to support(at)tcfos.org
 
