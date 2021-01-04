@@ -18,16 +18,10 @@ Easy to use:
 * tap and hold (or double-tap) for editing a button
 * no ads
 
-Privacy: the phone numbers and names are exclusively stored on your iPhone. This app doesn't track you.
+# Data Privacy
+The phone numbers and names are exclusively stored on your iPhone. This app doesn't track you.
+No personal data is collected.
 
 Link to the Apple appstore: https://apps.apple.com/us/app/call-by-color-36/id1494633758?l=en&ls=1
 
 Support: send an email message to support(at)tcfos.org
-
-# Call by Color 24 – Made for iPhone
-For those who need only 24 speed dialling keys there is second app: **Call by Color 24 – Made for iPhone**
-
-* 12 large buttons per screen
-* two screens for up to 24 phone numbers
-
-Link to the app store: (pending)
