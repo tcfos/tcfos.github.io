@@ -8,5 +8,8 @@ The app has been designed for iPhone and appleWatch. Enjoy!
 ## Settings
 The settings view allows to select the calendars. This is helpful in case you have many different calendars on your iPhone.
 
+## Privacy & Data Protection
+The app doesn't collect any information about you or your appointments. 
+
 ## Support
 Any trouble with that app? Send an email message to macbird(at)pm.me
