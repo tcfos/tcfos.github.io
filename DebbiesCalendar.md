@@ -1,4 +1,4 @@
-# Debbies Kalendar
+# Debbies Kalender
 
 Diese einfache Kalender zeigt die Termine der nächsten 7 Tagen. Jeder Eintrag wird als große farbige Kachel angezeigt.
 Es gibt keine Möglichkeit, Termine anzulegen – verwenden sie dafür die Kalender App von Apple.
